@@ -21,3 +21,5 @@ How to install:
 ![alt text](https://i.imgur.com/NeEohSV.jpg)
 
 4) Install black bracket and screws and enjoy :)
+
+<a href="https://www.buymeacoffee.com/zOo8Iv5Z4" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
