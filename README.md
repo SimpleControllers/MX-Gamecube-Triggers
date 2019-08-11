@@ -20,7 +20,7 @@ How to install:
 
 ![alt text](https://i.imgur.com/NeEohSV.jpg)
 
-4) Install black bracket and screws and enjoy :)
+4) Install black bracket, screws, and solder in the new switch! Enjoy! :)
 
 Thanks for reading!  Feel free to support me and help fund future projects with the link below!
 
