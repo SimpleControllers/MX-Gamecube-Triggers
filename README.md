@@ -5,8 +5,7 @@ Tutorial, Download, and Resource Links all below:
 
 ![alt text](https://i.imgur.com/qlrtbIz.jpg)
 
-Download link:
-https://drive.google.com/drive/folders/1S4Sdu3LHwAzF4XJ1gMfAZtLL-Nu31k5_?usp=sharing
+Download files from repository.
 
 How to install:
 
