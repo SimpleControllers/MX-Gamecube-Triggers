@@ -22,6 +22,6 @@ How to install:
 
 4) Install black bracket and screws and enjoy :)
 
-<a href="https://www.buymeacoffee.com/zOo8Iv5Z4" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Thanks for reading!  Feel free to support and help fund future projects with the link below!
 
-Thanks for reading!
+<a href="https://www.buymeacoffee.com/zOo8Iv5Z4" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
